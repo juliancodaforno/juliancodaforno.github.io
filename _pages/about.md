@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year PhD student in the [Computational Principles of Intelligence Lab](http://cpilab.org/) who started at the [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en), and now moved with my lab to the [Hehlmholtz AI Institute](https://www.helmholtz.ai/) in Munich. I am supervised by both [Eric Schulz](https://cpilab.org/eric.html) and [Jane X. Wang](http://www.janexwang.com/).
+I am a second year PhD student in the [Computational Principles of Intelligence Lab](http://cpilab.org/). I initially started at the [Max Planck Institute for Biological Cybernetics](https://www.kyb.tuebingen.mpg.de/en) and have now relocated with my lab to the [Hehlmholtz AI Institute](https://www.helmholtz.ai/) in Munich. I am supervised by both [Eric Schulz](https://cpilab.org/eric.html) and [Jane X. Wang](http://www.janexwang.com/).
 
 Broadly, I am interested in building computational models of human behavior to 1) better understand human cognition and 2) try to leverage these insights in Machine Learning. So far in my PhD, I have been exploring how Large Language Models behave to later see how they can be used to inject human-like priors into RL agents.
 
