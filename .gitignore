@@ -1,4 +1,7 @@
+_site
 _site/
+.sass-cache
+.jekyll-metadata
 images/posts/*.tex
 images/posts/*.pdf
 images/posts/*.sty
