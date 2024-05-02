@@ -14,6 +14,7 @@ Broadly, I am interested in computational models of human behavior to 1) better 
 When not doing research, I enjoy football, bouldering, skiing, calisthenics and dancing. 
 
 ## News
+- *May 2024*: Two papers accepted at ICML 2024: [CogBench](https://arxiv.org/abs/2402.18225) and [Ecologically rational meta-learned inference explains human category learning](https://arxiv.org/abs/2402.01821).
 - *April 2024*: I gave a [talk](https://www.youtube.com/watch?v=AKGaXC-aUZ0&t=960s) about Meta-learning in deep neural networks for the Harvard Efficient-ML seminar series as the 'rising star speaker'.
 - *Feb 2023*: We released [CogBench](https://github.com/juliancodaforno/CogBench), a benchmark for using cognitive psychology tasks to evaluate the behavior of LLMs.
 - *Sep 2023*: Our paper on [Meta-in-context learning in large language models](https://arxiv.org/pdf/2305.12907.pdf) was accepted at NeurIPS 2023.
