@@ -13,11 +13,11 @@ author_profile: true
 
 ## Peer-Reviewed Conferences
 [<span style="font-size:larger;">CogBench: a large language model walks into a psychology lab</span>](https://arxiv.org/abs/2402.18225)  
-***Julian Coda-Forno**, Marcel Binz, Jane X. Wang, Eric Schulz* 
+***Julian Coda-Forno**, Marcel Binz, Jane X. Wang, Eric Schulz.* 
 *International Conference on Machine Learning (ICML)* (2024).
 
 [<span style="font-size:larger;">Ecologically rational meta-learned inference explains human category learning lab</span>](https://arxiv.org/abs/2402.01821)  
-*Akshay K. Jagadish, **Julian Coda-Forno**, Mirko Thalmann, Eric Schulz, and Marcel Binz*
+*Akshay K. Jagadish, **Julian Coda-Forno**, Mirko Thalmann, Eric Schulz, and Marcel Binz.*
 *International Conference on Machine Learning (ICML)* (2024).
 
 [<span style="font-size:larger;">Meta-in-context learning in large language models.</span>](https://proceedings.neurips.cc/paper_files/paper/2023/file/cda04d7ea67ea1376bf8c6962d8541e0-Paper-Conference.pdf)  
