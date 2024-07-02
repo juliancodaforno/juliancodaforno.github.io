@@ -31,7 +31,7 @@ Models for Reinforcement Learning.</span>](https://memari-workshop.github.io/pap
 
 ## Preprints
 [<span style="font-size:larger;">Inducing anxiety in large language models increases exploration and bias.</span>](https://arxiv.org/abs/2304.11111)  
-***Julian Coda-Forno**, Kristin Witte, Akshay K Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz*  (2023).
+***Julian Coda-Forno***, Kristin Witte*, Akshay K Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz*  (2023).
 
 [<span style="font-size:larger;">Playing repeated games with Large Language Models.</span>](https://arxiv.org/pdf/2305.16867.pdf)  
 *Elif Akata, Lion Schulz, **Julian Coda-Forno**, Seong Joon Oh, Matthias Bethge, Eric Schulz* (2023).
