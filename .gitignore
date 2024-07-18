@@ -8,3 +8,4 @@ images/posts/*.sty
 _source/*_cache
 .Rproj.user
 commands_to_remember.md
+**/.DS_Store
