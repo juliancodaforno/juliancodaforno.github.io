@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an [ELLIS](https://ellis.eu/) PhD student currently in the [Computational Principles of Intelligence Lab](http://cpilab.org/) in Munich. I am supervised by both [Eric Schulz](https://cpilab.org/eric.html) (LMU & Helmholtz AI) and [Jane X. Wang](http://www.janexwang.com/) (Google DeepMind).
+I am an [ELLIS](https://ellis.eu/) PhD student currently in the [Computational Principles of Intelligence Lab](https://hcai-munich.com) in Munich. I am supervised by both [Eric Schulz](https://hcai-munich.com/eric.html) (LMU & Helmholtz AI) and [Jane X. Wang](http://www.janexwang.com/) (Google DeepMind).
 
 Broadly, I am interested in computational models of human behavior to try to leverage these insights in Machine Learning. So far in my PhD, I have been exploring how Large Language Models behave and take decision using the cogntive science lens. I am also interested to use these insights to inject human-like priors into RL agents.
 
