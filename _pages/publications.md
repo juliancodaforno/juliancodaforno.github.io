@@ -30,6 +30,10 @@ Models for Reinforcement Learning.</span>](https://memari-workshop.github.io/pap
 ***Julian Coda-Forno**, Changmin Yu, Qinghai Guo, Zafeirios Fountas, Neil Burgess.* *Memory in Artificial and Real Intelligence (MemARI) workshop at NeurIPS* (2022).
 
 ## Preprints
+
+[<span style="font-size:larger;">Centaur: a foundation model of human cognition.</span>](https://arxiv.org/pdf/2410.20268)
+*Marcel Binz, ... **Julian Coda-Forno**, ... Eric Schulz* (2024).
+
 [<span style="font-size:larger;">Inducing anxiety in large language models increases exploration and bias.</span>](https://arxiv.org/abs/2304.11111)  
 ***Julian Coda-Forno***, Kristin Witte*, Akshay K Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz*  (2023).
 

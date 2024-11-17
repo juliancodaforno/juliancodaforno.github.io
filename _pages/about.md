@@ -13,7 +13,8 @@ Broadly, I am interested in computational models of human behavior to try to lev
 
 When not doing research, I enjoy football, bouldering, skiing, surfing, calisthenics and dancing. 
 
-## News
+## 
+- *October 2024*: A new preprint, [Centaur: a foundation model of human cognition](https://arxiv.org/pdf/2410.20268), is out.
 - *May 2024*: Two papers accepted at ICML 2024: [CogBench: a large language model walks into a psychology lab](https://proceedings.mlr.press/v235/coda-forno24a.html) and [Ecologically rational meta-learned inference explains human category learning](https://proceedings.mlr.press/v235/jagadish24a.html).
 - *April 2024*: I gave a [talk](https://www.youtube.com/watch?v=AKGaXC-aUZ0&t=960s) about Meta-learning in deep neural networks for the Harvard Efficient-ML seminar series as the 'rising star speaker'.
 - *Feb 2023*: We released [CogBench](https://github.com/juliancodaforno/CogBench), a benchmark for using cognitive psychology tasks to evaluate the behavior of LLMs.
