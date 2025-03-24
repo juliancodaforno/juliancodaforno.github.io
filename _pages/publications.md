@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- {% if author.googlescholar %}
+{% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %} -->
+{% include base_path %}
 
 ## Peer-Reviewed Conferences
 [<span style="font-size:larger;">CogBench: a large language model walks into a psychology lab</span>](https://proceedings.mlr.press/v235/coda-forno24a.html)  
@@ -23,6 +23,11 @@ author_profile: true
 [<span style="font-size:larger;">Meta-in-context learning in large language models.</span>](https://proceedings.neurips.cc/paper_files/paper/2023/file/cda04d7ea67ea1376bf8c6962d8541e0-Paper-Conference.pdf)  
 ***Julian Coda-Forno**, Marcel Binz, Zeynep Akata, Matthew Botvinick, Jane X Wang, Eric Schulz.*  
 *Advances in Neural Information Processing Systems, 36* (2023).
+
+<!-- ## Journal Articles
+[<span style="font-size:larger;">Playing repeated games with Large Language Models.</span>](https://arxiv.org/pdf/2305.16867.pdf)  
+*Elif Akata, Lion Schulz, **Julian Coda-Forno**, Seong Joon Oh, Matthias Bethge, Eric Schulz.*
+*Nature Human Behaviour* (2024). -->
 
 ## Conference Workshops
 [<span style="font-size:larger;">Leveraging Episodic Memory to Improve World
