@@ -26,7 +26,7 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
 
 ## Journal Articles
 [<span style="font-size:larger;">A foundation model to predict and capture human cognition.</span>](https://www.nature.com/articles/s41586-025-09215-4)
-*Marcel Binz, ... **Julian Coda-Forno**, ... Eric Schulz* 
+*Marcel Binz, ... **Julian Coda-Forno**, ... Eric Schulz.*
 *Nature* (2025).
 
 [<span style="font-size:larger;">Playing repeated games with Large Language Models.</span>](https://www.nature.com/articles/s41562-025-02172-y)  
