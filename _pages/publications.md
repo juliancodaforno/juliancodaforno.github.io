@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-
 <!-- {% if author.googlescholar %} -->
 You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</u>
 <!-- {% endif %} -->
@@ -26,10 +24,14 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
 ***Julian Coda-Forno**, Marcel Binz, Zeynep Akata, Matthew Botvinick, Jane X Wang, Eric Schulz.*  
 *Advances in Neural Information Processing Systems, 36* (2023).
 
-<!-- ## Journal Articles
-[<span style="font-size:larger;">Playing repeated games with Large Language Models.</span>](https://arxiv.org/pdf/2305.16867.pdf)  
+## Journal Articles
+[<span style="font-size:larger;">A foundation model to predict and capture human cognition.</span>](https://www.nature.com/articles/s41586-025-09215-4)
+*Marcel Binz, ... **Julian Coda-Forno**, ... Eric Schulz* 
+*Nature* (2025).
+
+[<span style="font-size:larger;">Playing repeated games with Large Language Models.</span>](https://www.nature.com/articles/s41562-025-02172-y)  
 *Elif Akata, Lion Schulz, **Julian Coda-Forno**, Seong Joon Oh, Matthias Bethge, Eric Schulz.*
-*Nature Human Behaviour* (2024). -->
+*Nature Human Behaviour* (2024).
 
 ## Conference Workshops
 [<span style="font-size:larger;">Leveraging Episodic Memory to Improve World
@@ -37,13 +39,5 @@ Models for Reinforcement Learning.</span>](https://memari-workshop.github.io/pap
 ***Julian Coda-Forno**, Changmin Yu, Qinghai Guo, Zafeirios Fountas, Neil Burgess.* *Memory in Artificial and Real Intelligence (MemARI) workshop at NeurIPS* (2022).
 
 ## Preprints
-
-[<span style="font-size:larger;">Centaur: a foundation model of human cognition.</span>](https://arxiv.org/pdf/2410.20268)
-*Marcel Binz, ... **Julian Coda-Forno**, ... Eric Schulz* (2024).
-
 [<span style="font-size:larger;">Inducing anxiety in large language models increases exploration and bias.</span>](https://arxiv.org/abs/2304.11111)  
 ***Julian Coda-Forno***, Kristin Witte*, Akshay K Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz*  (2023).
-
-[<span style="font-size:larger;">Playing repeated games with Large Language Models.</span>](https://arxiv.org/pdf/2305.16867.pdf)  
-*Elif Akata, Lion Schulz, **Julian Coda-Forno**, Seong Joon Oh, Matthias Bethge, Eric Schulz* (2023).
-
