@@ -39,5 +39,8 @@ Models for Reinforcement Learning.</span>](https://memari-workshop.github.io/pap
 ***Julian Coda-Forno**, Changmin Yu, Qinghai Guo, Zafeirios Fountas, Neil Burgess.* *Memory in Artificial and Real Intelligence (MemARI) workshop at NeurIPS* (2022).
 
 ## Preprints
+[<span style="font-size:larger;">Meta-learning ecological priors from large language models explains human learning and decision making.</span>](https://arxiv.org/abs/2509.00116)  
+*Akshay K Jagadish, Mirko Thalmann, **Julian Coda-Forno**, Marcel Binz, Eric Schulz*  (2025).
+
 [<span style="font-size:larger;">Inducing anxiety in large language models increases exploration and bias.</span>](https://arxiv.org/abs/2304.11111)  
-***Julian Coda-Forno***, Kristin Witte*, Akshay K Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz*  (2023).
+***Julian Coda-Forno\***, Kristin Witte\*, Akshay K Jagadish, Marcel Binz, Zeynep Akata, Eric Schulz*  (2023).
