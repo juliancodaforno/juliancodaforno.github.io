@@ -34,6 +34,12 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
 *Nature Human Behaviour* (2024).
 
 ## Conference Workshops
+[<span style="font-size:larger;">The Illusion of Latent Generalization: Bi-Directionality and the Reversal Curse.</span>](https://arxiv.org/pdf/2604.04943)  
+***Julian Coda-Forno**, Jane X. Wang, Arslan Chaudhry.* *Re-Align workshop at ICLR* (2026).
+
+[<span style="font-size:larger;">Exploring System 1 and 2 communication for latent reasoning in LLMs.</span>](https://arxiv.org/pdf/2510.00494)  
+***Julian Coda-Forno**, Zhuokai Zhao, Qiang Zhang, Dipesh Tamboli, Weiwei Li, Xiangjun Fan, Lizhu Zhang, Eric Schulz, Hsiao-Ping Tseng.* *FoRLM workshop at NeurIPS* (2025).
+
 [<span style="font-size:larger;">Leveraging Episodic Memory to Improve World
 Models for Reinforcement Learning.</span>](https://memari-workshop.github.io/papers/paper_3.pdf)  
 ***Julian Coda-Forno**, Changmin Yu, Qinghai Guo, Zafeirios Fountas, Neil Burgess.* *Memory in Artificial and Real Intelligence (MemARI) workshop at NeurIPS* (2022).
